@@ -1,6 +1,6 @@
-package com.example.micro.commerce.mapper.impl;
+package com.example.micro.commerce.utils.mapper.impl;
 
-import com.example.micro.commerce.mapper.CommerceMapper;
+import com.example.micro.commerce.utils.mapper.CommerceMapper;
 import com.example.micro.commerce.model.response.SuccessFullResponseDto;
 import com.example.micro.h2db.model.entity.Price;
 import org.springframework.stereotype.Service;
